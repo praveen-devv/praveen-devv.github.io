@@ -1,0 +1,29 @@
+header {
+  padding: 100px 0;
+  margin-top: 0;
+  /* background: linear-gradient(to right, #4e6ed8, #1488cc); */
+  background: linear-gradient(to right, #0e205acb, #194350);
+}
+
+.list-inline {
+  margin-top: 30px;
+}
+
+.profile {
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+}
+
+.pro {
+  height: 350px;
+  width: 435px;
+}
+
+.skill-img {
+  text-align: center;
+}
+
+.skill-img > img {
+  margin: 30px;
+}
